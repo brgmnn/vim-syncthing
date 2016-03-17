@@ -1,9 +1,9 @@
 " Syncthing ignore file syntax file.
 " Language: stignore
 " Maintainer: Daniel Bergmann
-" Last Change: 02-January-2016
+" Last Change: 14-March-2016
 
-if exists("b:current_syntax")
+if exists('b:current_syntax')
     finish
 endif
 
